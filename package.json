@@ -1,0 +1,26 @@
+{
+  "name": "ryanairapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S00211783/APIforRyanAirAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S00211783/APIforRyanAirAPI/issues"
+  },
+  "homepage": "https://github.com/S00211783/APIforRyanAirAPI#readme",
+  "description": "",
+  "dependencies": {
+    "@2bad/ryanair": "^7.1.2",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
